@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
             } else if (rbWN.isChecked()) {
                 jk = rbWN.getText().toString();
             }
-            String fasilitas = "Hobi Anda : \n";
+            String fasilitas = "Fasilitas Anda : \n";
             int leng = fasilitas.length();
             if (jrs.isChecked()) fasilitas += jrs.getText() + "\n";
             if (mkn.isChecked()) fasilitas += mkn.getText() + "\n";
