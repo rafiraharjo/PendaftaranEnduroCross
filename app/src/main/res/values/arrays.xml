@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kelas">
+        <item>125cc</item>
+        <item>150cc</item>
+        <item>250cc</item>
+        <item>450cc</item>
+    </string-array>
+</resources>
